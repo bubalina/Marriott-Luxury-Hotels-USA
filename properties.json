@@ -1,0 +1,282 @@
+{
+  "properties": [
+    { "name": "W South Beach", "city": "Miami Beach" },
+    { "name": "W Seattle", "city": "Seattle" },
+    { "name": "W Scottsdale", "city": "Scottsdale" },
+    { "name": "W San Francisco", "city": "San Francisco" },
+    { "name": "W Philadelphia", "city": "Philadelphia" },
+    { "name": "W New York – Union Square", "city": "New York" },
+    { "name": "W New York - Times Square", "city": "New York" },
+    { "name": "W New Orleans - French Quarter", "city": "New Orleans" },
+    { "name": "W Nashville", "city": "Nashville" },
+    { "name": "W Minneapolis - The Foshay", "city": "Minneapolis" },
+    { "name": "W Miami", "city": "Miami" },
+    { "name": "W Los Angeles - West Beverly Hills", "city": "Los Angeles" },
+    { "name": "W Hollywood", "city": "Hollywood" },
+    { "name": "W Hoboken", "city": "Hoboken" },
+    { "name": "W Fort Lauderdale", "city": "Fort Lauderdale" },
+    { "name": "W Dallas - Victory", "city": "Dallas" },
+    { "name": "W Chicago - Lakeshore", "city": "Chicago" },
+    { "name": "W Chicago - City Center", "city": "Chicago" },
+    { "name": "W Boston", "city": "Boston" },
+    { "name": "W Bellevue", "city": "Bellevue" },
+    { "name": "W Austin", "city": "Austin" },
+    { "name": "W Atlanta – Downtown", "city": "Atlanta" },
+    { "name": "W Aspen", "city": "Aspen" },
+    { "name": "The Whitley, a Luxury Collection Hotel, Atlanta Buckhead", "city": "Atlanta" },
+    { "name": "The West Hollywood EDITION", "city": "West Hollywood" },
+    { "name": "THE US GRANT, a Luxury Collection Hotel, San Diego", "city": "San Diego" },
+    { "name": "The Times Square EDITION", "city": "New York" },
+    { "name": "The Tampa EDITION", "city": "Tampa" },
+    { "name": "The St. Regis Washington, D.C.", "city": "Washington D.C." },
+    { "name": "The St. Regis San Francisco", "city": "San Francisco" },
+    { "name": "The St. Regis New York", "city": "New York" },
+    { "name": "The St. Regis Houston", "city": "Houston" },
+    { "name": "The St. Regis Deer Valley", "city": "Park City" },
+    { "name": "The St. Regis Chicago", "city": "Chicago" },
+    { "name": "The St. Regis Bermuda Resort", "city": "Southampton" },
+    { "name": "The St. Regis Bal Harbour Resort", "city": "Miami Beach" },
+    { "name": "The St. Regis Atlanta", "city": "Atlanta" },
+    { "name": "The St. Regis Aspen Resort", "city": "Aspen" },
+    { "name": "The St. Anthony, a Luxury Collection Hotel, San Antonio", "city": "San Antonio" },
+    { "name": "The Sky Residences at W Aspen", "city": "Aspen" },
+    { "name": "The Royal Hawaiian, a Luxury Collection Resort, Waikiki", "city": "Honolulu" },
+    { "name": "The Ritz-Carlton, Washington, D.C.", "city": "Washington D.C." },
+    { "name": "The Ritz-Carlton, Tysons Corner", "city": "McLean" },
+    { "name": "The Ritz-Carlton, St. Louis", "city": "St. Louis" },
+    { "name": "The Ritz-Carlton, South Beach", "city": "Miami Beach" },
+    { "name": "The Ritz-Carlton, Sarasota",
+         "city":"Sarasota",
+         "rating":4.6
+      },
+      {
+         "name":"The Ritz-Carlton, San Francisco",
+         "city":"San Francisco",
+         "rating":4.5
+      },
+      {
+         "name":"The Ritz-Carlton, Rancho Mirage",
+         "city":"Rancho Mirage",
+         "rating":4.6
+      },
+      {
+         "name":"The Ritz-Carlton, Portland",
+         "city":"Portland",
+         "rating":4.6
+      },
+      {
+         "name":"The Ritz-Carlton, Philadelphia",
+         "city":"Philadelphia",
+         "rating":4.6
+      },
+      {
+         "name":"The Ritz-Carlton, Pentagon City",
+         "city":"Arlington",
+         "rating":4.5
+      },
+      {
+         "name":"The Ritz-Carlton, New Orleans",
+         "city":"New Orleans",
+         "rating":4.6
+      },
+      {
+         "name":"The Ritz-Carlton, Naples",
+         "city":"Naples",
+         "rating":4.6
+      },
+      {
+         "name":"The Ritz-Carlton, Marina del Rey",
+         "city":"Marina del Rey",
+         "rating":4.5
+      },
+      {
+         "name":"The Ritz-Carlton, Los Angeles",
+         "city":"Los Angeles",
+         "rating":4.4
+      },
+      {
+         "name":"The Ritz-Carlton, Lake Tahoe",
+         "city":"Truckee",
+         "rating":4.6
+      },
+      {
+         "name":"The Ritz-Carlton, Laguna Niguel",
+         "city":"Dana Point",
+         "rating":4.6
+      },
+      {
+         "name":"The Ritz-Carlton, Half Moon Bay",
+         "city":"Half Moon Bay",
+         "rating":4.6
+      },
+      {
+         "name":"The Ritz-Carlton, Fort Lauderdale",
+         "city":"Fort Lauderdale",
+         "rating":4.5
+      },
+      {
+         "name":"The Ritz-Carlton, Dove Mountain",
+         "city":"Marana",
+         "rating":4.6
+      },
+      {
+         "name":"The Ritz-Carlton, Denver",
+         "city":"Denver",
+         "rating":4.6
+      },
+      {
+         "name":"The Ritz-Carlton, Dallas",
+         "city":"Dallas",
+         "rating":4.6
+      },
+      {
+         "name":"The Ritz-Carlton, Cleveland",
+         "city":"Cleveland",
+         "rating":4.6
+      },
+      {
+         "name":"The Ritz-Carlton, Chicago",
+         "city":"Chicago",
+         "rating":4.6
+      },
+      {
+         "name":"The Ritz-Carlton, Charlotte",
+         "city":"Charlotte",
+         "rating":4.6
+      },
+      {
+         "name":"The Ritz-Carlton, Boston",
+         "city":"Boston",
+         "rating":4.6
+      },
+      {
+         "name":"The Ritz-Carlton, Bachelor Gulch",
+         "city":"Avon",
+         "rating":4.8
+      },
+      {
+         "name":"The Ritz-Carlton, Atlanta",
+         "city":"Atlanta",
+         "rating":4.5
+      },
+      {
+         "name":"The Ritz-Carlton, Amelia Island",
+         "city":"Fernandina Beach",
+         "rating":4.7
+      },
+      {
+         "name":"The Ritz-Carlton Reynolds, Lake Oconee",
+         "city":"Greensboro",
+         "rating":4.6
+      },
+      {
+         "name":"The Ritz-Carlton Residences, Waikiki Beach",
+         "city":"Honolulu",
+         "rating":4.5
+      },
+      {
+         "name":"The Ritz-Carlton Residences, Orlando, Grande Lakes",
+         "city":"Orlando",
+         "rating":4.4
+      },
+      {
+         "name":"The Ritz-Carlton Orlando, Grande Lakes",
+         "city":"Orlando",
+         "rating":4.6
+      },
+      {
+         "name":"The Ritz-Carlton New York, NoMad",
+         "city":"New York",
+         "rating":4.6
+      },
+      {
+         "name":"
+    { "name": "The Ritz{ "name": "The Ritz-Carlton, Atlanta", "city": "Atlanta" },
+    { "name": "The Ritz-Carlton, Amelia Island", "city": "Amelia Island" },
+    { "name": "The Ritz-Carlton Reynolds, Lake Oconee", "city": "Greensboro" },
+    { "name": "The Ritz-Carlton Residences, Waikiki Beach", "city": "Honolulu" },
+    { "name": "The Ritz-Carlton Residences, Orlando, Grande Lakes", "city": "Orlando" },
+    { "name": "The Ritz-Carlton Orlando, Grande Lakes", "city": "Orlando" },
+    { "name": "The Ritz-Carlton New York, NoMad", "city": "New York" },
+    { "name": "The Ritz-Carlton New York, Central Park", "city": "New York" },
+    { "name": "The Ritz-Carlton Naples, Tiburón", "city": "Naples" },
+    { "name": "The Ritz-Carlton Maui, Kapalua", "city": "Maui" },
+    { "name": "The Ritz-Carlton Key Biscayne, Miami", "city": "Key Biscayne" },
+    { "name": "The Ritz-Carlton Georgetown, Washington, D.C.", "city": "Washington D.C." },
+    { "name": "The Ritz-Carlton Coconut Grove, Miami", "city": "Miami" },
+    { "name": "The Ritz-Carlton Bal Harbour, Miami", "city": "Bal Harbour" },
+    { "name": "The Ritz-Carlton Bacara, Santa Barbara", "city": "Santa Barbara" },
+    { "name": "The Ritz Carlton Club, Vail", "city": "Vail" },
+    { "name": "The Residences at The St. Regis Bermuda", "city": "Southampton" },
+    { "name": "The Phoenician, a Luxury Collection Resort, Scottsdale", "city": "Scottsdale" },
+    { "name": "The Nines, a Luxury Collection Hotel, Portland", "city": "Portland" },
+    { "name": "The New York EDITION", "city": "New York" },
+    { "name": "The Miami Beach EDITION", "city": "Miami Beach" },
+    { "name": "The Liberty, a Luxury Collection Hotel, Boston", "city": "Boston" },
+    { "name": "The Las Colinas Resort, Dallas", "city": "Irving" },
+    { "name": "The Joseph, a Luxury Collection Hotel, Nashville", "city": "Nashville" },
+    { "name": "The Hythe, a Luxury Collection Resort, Vail", "city": "Vail" },
+    { "name": "The Gwen, a Luxury Collection Hotel, Michigan Avenue Chicago", "city": "Chicago" },
+    { "name": "The Canyon Suites at The Phoenician, a Luxury Collection Resort, Scottsdale", "city": "Scottsdale" },
+    { "name": "The Ballantyne, a Luxury Collection Hotel, Charlotte", "city": "Charlotte" },
+    { "name": "St. Regis Residence Club, Aspen", "city": "Aspen" },
+    { "name": "SLS Hotel, a Luxury Collection Hotel, Beverly Hills", "city": "Beverly Hills" },
+    { "name": "Phoenician Residences, a Luxury Collection Residence Club, Scottsdale", "city": "Scottsdale" },
+    { "name": "Perry Lane Hotel, a Luxury Collection Hotel, Savannah", "city": "Savannah" },
+    { "name": "Palace Hotel, a Luxury Collection Hotel, San Francisco", "city": "San Francisco" },
+    { "name": "JW Marriott, Anaheim Resort", "city": "Anaheim" },
+    { "name": "JW Marriott Washington, DC", "city": "Washington D.C." },
+    { "name": "JW Marriott Tucson Starr Pass Resort & Spa", "city": "Tucson" },
+    { "name": "JW Marriott Tampa Water Street", "city": "Tampa" },
+    { "name": "JW Marriott Scottsdale Camelback Inn Resort & Spa", "city": "Scottsdale" },
+    { "name": "JW Marriott Savannah Plant Riverside District", "city": "Savannah" },
+    { "name": "JW Marriott San Francisco Union Square", "city": "San Francisco" },
+    {
+  "properties": [
+    { "name": "W South Beach", "city": "Miami Beach" },
+    { "name": "W Seattle", "city": "Seattle" },
+    { "name": "W Scottsdale", "city": "Scottsdale" },
+    { "name": "W San Francisco", "city": "San Francisco" },
+    { "name": "W Philadelphia", "city": "Philadelphia" },
+    { "name": "W New York – Union Square", "city": "New York" },
+    { "name": "W New York - Times Square", "city": "New York" },
+    { "name": "W New Orleans - French Quarter", "city": "New Orleans" },
+    { "name": "W Nashville", "city": "Nashville" },
+    { "name": "W Minneapolis - The Foshay", "city": "Minneapolis" },
+    { "name": "W Miami", "city": "Miami" },
+    { "name": "W Los Angeles - West Beverly Hills", "city": "Los Angeles" },
+    { "name": "W Hollywood", "city": "Hollywood" },
+    { "name": "W Hoboken", "city": "Hoboken" },
+    { "name": "W Fort Lauderdale", "city": "Fort Lauderdale" },
+    { "name": "W Dallas - Victory", "city": "Dallas" },
+    { "name": "W Chicago - Lakeshore", "city": "Chicago" },
+    { "name": "W Chicago - City Center", "city": "Chicago" },
+    { "name": "W Boston", "city": "Boston" },
+    { "name": "W Bellevue", "city": "Bellevue" },
+    { "name": "W Austin", "city": "Austin" },
+    { "name": "W Atlanta – Downtown", "city": "Atlanta" },
+    { "name": "W Aspen", "city": "Aspen" },
+    { "name": "The Whitley, a Luxury Collection Hotel, Atlanta Buckhead", "city": "Atlanta" },
+    { "name": "The West Hollywood EDITION", "city": "West Hollywood" },
+    { "name": "THE US GRANT, a Luxury Collection Hotel, San Diego", "city": "San Diego" },
+    { "name": "The Times Square EDITION", "city": "New York" },
+    { "name": "The Tampa EDITION", "city": "Tampa" },
+    { "name": "The St. Regis Washington, D.C.", "city": "Washington D.C." },
+    { "name": "The St. Regis San Francisco", "city": "San Francisco" },
+    { "name": "The St. Regis New York", "city": "New York" },
+    { "name": "The St. Regis Houston", "city": "Houston" },
+    { "name": "The St. Regis Deer Valley", "city": "Park City" },
+    { "name": "The St. Regis Chicago", "city": "Chicago" },
+    { "name": "The St. Regis Bermuda Resort", "city": "Southampton" },
+    { "name": "The St. Regis Bal Harbour Resort", "city": "Miami Beach" },
+    { "name": "The St. Regis Atlanta", "city": "Atlanta" },
+    { "name": "The St. Regis Aspen Resort", "city": "Aspen" },
+    { "name": "The St. Anthony, a Luxury Collection Hotel, San Antonio", "city": "San Antonio" },
+    { "name": "The Sky Residences at W Aspen", "city": "Aspen" },
+    { "name": "The Royal Hawaiian, a Luxury Collection Resort, Waikiki", "city": "Honolulu" },
+    { "name": "The Ritz-Carlton, Washington, D.C.", "city": "Washington D.C." },
+    { "name": "The Ritz-Carlton, Tysons Corner", "city": "McLean" },
+    { "name": "The Ritz-Carlton, St. Louis", "city": "St. Louis" },
+    { "name": "The Ritz-Carlton, South Beach", "city": "Miami Beach" },
+    { "name": "The Ritz-Carlton, Sarasota", "city": "Sarasota" },
+   ]
