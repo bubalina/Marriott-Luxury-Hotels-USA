@@ -139,4 +139,3 @@ A table of the Google Ratings of Marriott's Luxury properties in every city in A
  W Seattle                                                      | Seattle                          | 98101        | 4.4               
  The St. Regis                                                  | Bermuda Resort                   | HM 02        | 4.3               
  The Residences at The St. Regis Bermuda                        | Hamilton                         | HM 05        | 4.3               
-
