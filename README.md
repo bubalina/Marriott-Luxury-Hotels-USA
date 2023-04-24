@@ -3,10 +3,10 @@ A table of the Google Ratings of Marriott's Luxury properties in every city in A
 
  **Property Name**                                              | **City**                         | **Zip Code** | **Google Rating** 
 ----------------------------------------------------------------|----------------------------------|--------------|-------------------
- The Ritz-Carlton Boston                                        | Boston                           | 2109         | 4.6               
- W Boston                                                       | Boston                           | 2116         | 4.5               
- The Liberty a Luxury Collection Resort                         | Boston                           | 2116         | 4.6               
- W Hoboken                                                      | New York - Hoboken               | 7030         | 4.5               
+ The Ritz-Carlton Boston                                        | Boston                           | 02109        | 4.6               
+ W Boston                                                       | Boston                           | 02116        | 4.5               
+ The Liberty a Luxury Collection Resort                         | Boston                           | 02116        | 4.6               
+ W Hoboken                                                      | New York - Hoboken               | 07030        | 4.5               
  W New York – Union Square                                      | New York – Union Square          | 10003        | 4.3               
  The New York EDITION                                           | New York                         | 10010        | 4.6               
  The Ritz-Carlton New York - NoMad                              | New York                         | 10016        | 4.6               
@@ -137,5 +137,5 @@ A table of the Google Ratings of Marriott's Luxury properties in every city in A
  The Ritz-Carlton Residences                                    | Portland                         | 97205        | 3.3               
  W Bellevue                                                     | Bellevue                         | 98004        | 4.3               
  W Seattle                                                      | Seattle                          | 98101        | 4.4               
- The St. Regis                                                  | Bermuda Resort                   | HM 02        | 4.3               
- The Residences at The St. Regis Bermuda                        | Hamilton                         | HM 05        | 4.3               
+ The St. Regis Bermuda Resort                                   | Bermuda                          | HM 02        | 4.3               
+ The Residences at The St. Regis Bermuda                        | Bermuda                          | HM 05        | 4.3               
