@@ -1,282 +1,138 @@
-{
-  "properties": [
-    { "name": "W South Beach", "city": "Miami Beach" },
-    { "name": "W Seattle", "city": "Seattle" },
-    { "name": "W Scottsdale", "city": "Scottsdale" },
-    { "name": "W San Francisco", "city": "San Francisco" },
-    { "name": "W Philadelphia", "city": "Philadelphia" },
-    { "name": "W New York – Union Square", "city": "New York" },
-    { "name": "W New York - Times Square", "city": "New York" },
-    { "name": "W New Orleans - French Quarter", "city": "New Orleans" },
-    { "name": "W Nashville", "city": "Nashville" },
-    { "name": "W Minneapolis - The Foshay", "city": "Minneapolis" },
-    { "name": "W Miami", "city": "Miami" },
-    { "name": "W Los Angeles - West Beverly Hills", "city": "Los Angeles" },
-    { "name": "W Hollywood", "city": "Hollywood" },
-    { "name": "W Hoboken", "city": "Hoboken" },
-    { "name": "W Fort Lauderdale", "city": "Fort Lauderdale" },
-    { "name": "W Dallas - Victory", "city": "Dallas" },
-    { "name": "W Chicago - Lakeshore", "city": "Chicago" },
-    { "name": "W Chicago - City Center", "city": "Chicago" },
-    { "name": "W Boston", "city": "Boston" },
-    { "name": "W Bellevue", "city": "Bellevue" },
-    { "name": "W Austin", "city": "Austin" },
-    { "name": "W Atlanta – Downtown", "city": "Atlanta" },
-    { "name": "W Aspen", "city": "Aspen" },
-    { "name": "The Whitley, a Luxury Collection Hotel, Atlanta Buckhead", "city": "Atlanta" },
-    { "name": "The West Hollywood EDITION", "city": "West Hollywood" },
-    { "name": "THE US GRANT, a Luxury Collection Hotel, San Diego", "city": "San Diego" },
-    { "name": "The Times Square EDITION", "city": "New York" },
-    { "name": "The Tampa EDITION", "city": "Tampa" },
-    { "name": "The St. Regis Washington, D.C.", "city": "Washington D.C." },
-    { "name": "The St. Regis San Francisco", "city": "San Francisco" },
-    { "name": "The St. Regis New York", "city": "New York" },
-    { "name": "The St. Regis Houston", "city": "Houston" },
-    { "name": "The St. Regis Deer Valley", "city": "Park City" },
-    { "name": "The St. Regis Chicago", "city": "Chicago" },
-    { "name": "The St. Regis Bermuda Resort", "city": "Southampton" },
-    { "name": "The St. Regis Bal Harbour Resort", "city": "Miami Beach" },
-    { "name": "The St. Regis Atlanta", "city": "Atlanta" },
-    { "name": "The St. Regis Aspen Resort", "city": "Aspen" },
-    { "name": "The St. Anthony, a Luxury Collection Hotel, San Antonio", "city": "San Antonio" },
-    { "name": "The Sky Residences at W Aspen", "city": "Aspen" },
-    { "name": "The Royal Hawaiian, a Luxury Collection Resort, Waikiki", "city": "Honolulu" },
-    { "name": "The Ritz-Carlton, Washington, D.C.", "city": "Washington D.C." },
-    { "name": "The Ritz-Carlton, Tysons Corner", "city": "McLean" },
-    { "name": "The Ritz-Carlton, St. Louis", "city": "St. Louis" },
-    { "name": "The Ritz-Carlton, South Beach", "city": "Miami Beach" },
-    { "name": "The Ritz-Carlton, Sarasota",
-         "city":"Sarasota",
-         "rating":4.6
-      },
-      {
-         "name":"The Ritz-Carlton, San Francisco",
-         "city":"San Francisco",
-         "rating":4.5
-      },
-      {
-         "name":"The Ritz-Carlton, Rancho Mirage",
-         "city":"Rancho Mirage",
-         "rating":4.6
-      },
-      {
-         "name":"The Ritz-Carlton, Portland",
-         "city":"Portland",
-         "rating":4.6
-      },
-      {
-         "name":"The Ritz-Carlton, Philadelphia",
-         "city":"Philadelphia",
-         "rating":4.6
-      },
-      {
-         "name":"The Ritz-Carlton, Pentagon City",
-         "city":"Arlington",
-         "rating":4.5
-      },
-      {
-         "name":"The Ritz-Carlton, New Orleans",
-         "city":"New Orleans",
-         "rating":4.6
-      },
-      {
-         "name":"The Ritz-Carlton, Naples",
-         "city":"Naples",
-         "rating":4.6
-      },
-      {
-         "name":"The Ritz-Carlton, Marina del Rey",
-         "city":"Marina del Rey",
-         "rating":4.5
-      },
-      {
-         "name":"The Ritz-Carlton, Los Angeles",
-         "city":"Los Angeles",
-         "rating":4.4
-      },
-      {
-         "name":"The Ritz-Carlton, Lake Tahoe",
-         "city":"Truckee",
-         "rating":4.6
-      },
-      {
-         "name":"The Ritz-Carlton, Laguna Niguel",
-         "city":"Dana Point",
-         "rating":4.6
-      },
-      {
-         "name":"The Ritz-Carlton, Half Moon Bay",
-         "city":"Half Moon Bay",
-         "rating":4.6
-      },
-      {
-         "name":"The Ritz-Carlton, Fort Lauderdale",
-         "city":"Fort Lauderdale",
-         "rating":4.5
-      },
-      {
-         "name":"The Ritz-Carlton, Dove Mountain",
-         "city":"Marana",
-         "rating":4.6
-      },
-      {
-         "name":"The Ritz-Carlton, Denver",
-         "city":"Denver",
-         "rating":4.6
-      },
-      {
-         "name":"The Ritz-Carlton, Dallas",
-         "city":"Dallas",
-         "rating":4.6
-      },
-      {
-         "name":"The Ritz-Carlton, Cleveland",
-         "city":"Cleveland",
-         "rating":4.6
-      },
-      {
-         "name":"The Ritz-Carlton, Chicago",
-         "city":"Chicago",
-         "rating":4.6
-      },
-      {
-         "name":"The Ritz-Carlton, Charlotte",
-         "city":"Charlotte",
-         "rating":4.6
-      },
-      {
-         "name":"The Ritz-Carlton, Boston",
-         "city":"Boston",
-         "rating":4.6
-      },
-      {
-         "name":"The Ritz-Carlton, Bachelor Gulch",
-         "city":"Avon",
-         "rating":4.8
-      },
-      {
-         "name":"The Ritz-Carlton, Atlanta",
-         "city":"Atlanta",
-         "rating":4.5
-      },
-      {
-         "name":"The Ritz-Carlton, Amelia Island",
-         "city":"Fernandina Beach",
-         "rating":4.7
-      },
-      {
-         "name":"The Ritz-Carlton Reynolds, Lake Oconee",
-         "city":"Greensboro",
-         "rating":4.6
-      },
-      {
-         "name":"The Ritz-Carlton Residences, Waikiki Beach",
-         "city":"Honolulu",
-         "rating":4.5
-      },
-      {
-         "name":"The Ritz-Carlton Residences, Orlando, Grande Lakes",
-         "city":"Orlando",
-         "rating":4.4
-      },
-      {
-         "name":"The Ritz-Carlton Orlando, Grande Lakes",
-         "city":"Orlando",
-         "rating":4.6
-      },
-      {
-         "name":"The Ritz-Carlton New York, NoMad",
-         "city":"New York",
-         "rating":4.6
-      },
-      {
-         "name":"
-    { "name": "The Ritz{ "name": "The Ritz-Carlton, Atlanta", "city": "Atlanta" },
-    { "name": "The Ritz-Carlton, Amelia Island", "city": "Amelia Island" },
-    { "name": "The Ritz-Carlton Reynolds, Lake Oconee", "city": "Greensboro" },
-    { "name": "The Ritz-Carlton Residences, Waikiki Beach", "city": "Honolulu" },
-    { "name": "The Ritz-Carlton Residences, Orlando, Grande Lakes", "city": "Orlando" },
-    { "name": "The Ritz-Carlton Orlando, Grande Lakes", "city": "Orlando" },
-    { "name": "The Ritz-Carlton New York, NoMad", "city": "New York" },
-    { "name": "The Ritz-Carlton New York, Central Park", "city": "New York" },
-    { "name": "The Ritz-Carlton Naples, Tiburón", "city": "Naples" },
-    { "name": "The Ritz-Carlton Maui, Kapalua", "city": "Maui" },
-    { "name": "The Ritz-Carlton Key Biscayne, Miami", "city": "Key Biscayne" },
-    { "name": "The Ritz-Carlton Georgetown, Washington, D.C.", "city": "Washington D.C." },
-    { "name": "The Ritz-Carlton Coconut Grove, Miami", "city": "Miami" },
-    { "name": "The Ritz-Carlton Bal Harbour, Miami", "city": "Bal Harbour" },
-    { "name": "The Ritz-Carlton Bacara, Santa Barbara", "city": "Santa Barbara" },
-    { "name": "The Ritz Carlton Club, Vail", "city": "Vail" },
-    { "name": "The Residences at The St. Regis Bermuda", "city": "Southampton" },
-    { "name": "The Phoenician, a Luxury Collection Resort, Scottsdale", "city": "Scottsdale" },
-    { "name": "The Nines, a Luxury Collection Hotel, Portland", "city": "Portland" },
-    { "name": "The New York EDITION", "city": "New York" },
-    { "name": "The Miami Beach EDITION", "city": "Miami Beach" },
-    { "name": "The Liberty, a Luxury Collection Hotel, Boston", "city": "Boston" },
-    { "name": "The Las Colinas Resort, Dallas", "city": "Irving" },
-    { "name": "The Joseph, a Luxury Collection Hotel, Nashville", "city": "Nashville" },
-    { "name": "The Hythe, a Luxury Collection Resort, Vail", "city": "Vail" },
-    { "name": "The Gwen, a Luxury Collection Hotel, Michigan Avenue Chicago", "city": "Chicago" },
-    { "name": "The Canyon Suites at The Phoenician, a Luxury Collection Resort, Scottsdale", "city": "Scottsdale" },
-    { "name": "The Ballantyne, a Luxury Collection Hotel, Charlotte", "city": "Charlotte" },
-    { "name": "St. Regis Residence Club, Aspen", "city": "Aspen" },
-    { "name": "SLS Hotel, a Luxury Collection Hotel, Beverly Hills", "city": "Beverly Hills" },
-    { "name": "Phoenician Residences, a Luxury Collection Residence Club, Scottsdale", "city": "Scottsdale" },
-    { "name": "Perry Lane Hotel, a Luxury Collection Hotel, Savannah", "city": "Savannah" },
-    { "name": "Palace Hotel, a Luxury Collection Hotel, San Francisco", "city": "San Francisco" },
-    { "name": "JW Marriott, Anaheim Resort", "city": "Anaheim" },
-    { "name": "JW Marriott Washington, DC", "city": "Washington D.C." },
-    { "name": "JW Marriott Tucson Starr Pass Resort & Spa", "city": "Tucson" },
-    { "name": "JW Marriott Tampa Water Street", "city": "Tampa" },
-    { "name": "JW Marriott Scottsdale Camelback Inn Resort & Spa", "city": "Scottsdale" },
-    { "name": "JW Marriott Savannah Plant Riverside District", "city": "Savannah" },
-    { "name": "JW Marriott San Francisco Union Square", "city": "San Francisco" },
-    {
-  "properties": [
-    { "name": "W South Beach", "city": "Miami Beach" },
-    { "name": "W Seattle", "city": "Seattle" },
-    { "name": "W Scottsdale", "city": "Scottsdale" },
-    { "name": "W San Francisco", "city": "San Francisco" },
-    { "name": "W Philadelphia", "city": "Philadelphia" },
-    { "name": "W New York – Union Square", "city": "New York" },
-    { "name": "W New York - Times Square", "city": "New York" },
-    { "name": "W New Orleans - French Quarter", "city": "New Orleans" },
-    { "name": "W Nashville", "city": "Nashville" },
-    { "name": "W Minneapolis - The Foshay", "city": "Minneapolis" },
-    { "name": "W Miami", "city": "Miami" },
-    { "name": "W Los Angeles - West Beverly Hills", "city": "Los Angeles" },
-    { "name": "W Hollywood", "city": "Hollywood" },
-    { "name": "W Hoboken", "city": "Hoboken" },
-    { "name": "W Fort Lauderdale", "city": "Fort Lauderdale" },
-    { "name": "W Dallas - Victory", "city": "Dallas" },
-    { "name": "W Chicago - Lakeshore", "city": "Chicago" },
-    { "name": "W Chicago - City Center", "city": "Chicago" },
-    { "name": "W Boston", "city": "Boston" },
-    { "name": "W Bellevue", "city": "Bellevue" },
-    { "name": "W Austin", "city": "Austin" },
-    { "name": "W Atlanta – Downtown", "city": "Atlanta" },
-    { "name": "W Aspen", "city": "Aspen" },
-    { "name": "The Whitley, a Luxury Collection Hotel, Atlanta Buckhead", "city": "Atlanta" },
-    { "name": "The West Hollywood EDITION", "city": "West Hollywood" },
-    { "name": "THE US GRANT, a Luxury Collection Hotel, San Diego", "city": "San Diego" },
-    { "name": "The Times Square EDITION", "city": "New York" },
-    { "name": "The Tampa EDITION", "city": "Tampa" },
-    { "name": "The St. Regis Washington, D.C.", "city": "Washington D.C." },
-    { "name": "The St. Regis San Francisco", "city": "San Francisco" },
-    { "name": "The St. Regis New York", "city": "New York" },
-    { "name": "The St. Regis Houston", "city": "Houston" },
-    { "name": "The St. Regis Deer Valley", "city": "Park City" },
-    { "name": "The St. Regis Chicago", "city": "Chicago" },
-    { "name": "The St. Regis Bermuda Resort", "city": "Southampton" },
-    { "name": "The St. Regis Bal Harbour Resort", "city": "Miami Beach" },
-    { "name": "The St. Regis Atlanta", "city": "Atlanta" },
-    { "name": "The St. Regis Aspen Resort", "city": "Aspen" },
-    { "name": "The St. Anthony, a Luxury Collection Hotel, San Antonio", "city": "San Antonio" },
-    { "name": "The Sky Residences at W Aspen", "city": "Aspen" },
-    { "name": "The Royal Hawaiian, a Luxury Collection Resort, Waikiki", "city": "Honolulu" },
-    { "name": "The Ritz-Carlton, Washington, D.C.", "city": "Washington D.C." },
-    { "name": "The Ritz-Carlton, Tysons Corner", "city": "McLean" },
-    { "name": "The Ritz-Carlton, St. Louis", "city": "St. Louis" },
-    { "name": "The Ritz-Carlton, South Beach", "city": "Miami Beach" },
-    { "name": "The Ritz-Carlton, Sarasota", "city": "Sarasota" },
-   ]
+[
+{"Property Name":"The Ritz-Carlton Boston","City":"Boston","Zip Code":"2109","Google Rating":"4.6"}
+{"Property Name":"W Boston","City":"Boston","Zip Code":"2116","Google Rating":"4.5"}
+{"Property Name":"The Liberty a Luxury Collection Resort","City":"Boston","Zip Code":"2116","Google Rating":"4.6"}
+{"Property Name":"W Hoboken","City":"New York - Hoboken","Zip Code":"7030","Google Rating":"4.5"}
+{"Property Name":"W New York – Union Square","City":"New York – Union Square","Zip Code":"10003","Google Rating":"4.3"}
+{"Property Name":"The New York EDITION","City":"New York","Zip Code":"10010","Google Rating":"4.6"}
+{"Property Name":"The Ritz-Carlton New York - NoMad","City":"New York","Zip Code":"10016","Google Rating":"4.6"}
+{"Property Name":"The Ritz-Carlton New York - Central Park","City":"New York","Zip Code":"10019","Google Rating":"4.7"}
+{"Property Name":"JW Marriott Essex House New York","City":"New York","Zip Code":"10019","Google Rating":"4.4"}
+{"Property Name":"The St. Regis","City":"New York - 5th Avenue","Zip Code":"10022","Google Rating":"4.6"}
+{"Property Name":"W New York - Times Square","City":"New York - Times Square","Zip Code":"10036","Google Rating":"4.5"}
+{"Property Name":"The Times Square EDITION","City":"New York - Times Square","Zip Code":"10036","Google Rating":"4.5"}
+{"Property Name":"W Philadelphia","City":"Philadelphia","Zip Code":"19102","Google Rating":"4.4"}
+{"Property Name":"The Ritz-Carlton","City":"Philadelphia","Zip Code":"19102","Google Rating":"4.7"}
+{"Property Name":"JW Marriott Washington D.C.","City":"Washington D.C.","Zip Code":"20004","Google Rating":"4.6"}
+{"Property Name":"The St. Regis","City":"Washington D.C.","Zip Code":"20006","Google Rating":"4.6"}
+{"Property Name":"The Ritz-Carlton Washington D.C. - Georgetown","City":"Washington D.C.","Zip Code":"20007","Google Rating":"4.7"}
+{"Property Name":"The Ritz-Carlton","City":"Washington D.C.","Zip Code":"20037","Google Rating":"4.6"}
+{"Property Name":"The Ritz-Carlton","City":"Tysons Corner","Zip Code":"22102","Google Rating":"4.5"}
+{"Property Name":"The Ritz-Carlton","City":"Pentagon City","Zip Code":"22202","Google Rating":"4.5"}
+{"Property Name":"The Ritz-Carlton Charlotte","City":"Charlotte","Zip Code":"28202","Google Rating":"4.7"}
+{"Property Name":"JW Marriott Charlotte","City":"Charlotte","Zip Code":"28202","Google Rating":"4.6"}
+{"Property Name":"The Ballantyne a Luxury Collection Resort","City":"Charlotte","Zip Code":"28277","Google Rating":"4.7"}
+{"Property Name":"The St. Regis","City":"Atlanta","Zip Code":"30305","Google Rating":"4.6"}
+{"Property Name":"W Atlanta – Downtown","City":"Atlanta – Downtown","Zip Code":"30308","Google Rating":"4.5"}
+{"Property Name":"The Whitley a Luxury Collection Hotel","City":"Atlanta Buckhead","Zip Code":"30326","Google Rating":"4.6"}
+{"Property Name":"The Ritz-Carlton Atlanta","City":"Atlanta","Zip Code":"30326","Google Rating":"4.6"}
+{"Property Name":"JW Marriott Atlanta Buckhead","City":"Atlanta","Zip Code":"30326","Google Rating":"4.4"}
+{"Property Name":"The Ritz-Carlton Reynolds Lake Oconee","City":"Greensboro","Zip Code":"30642","Google Rating":"4.8"}
+{"Property Name":"Perry Lane Hotel","City":"Savannah","Zip Code":"31401","Google Rating":"4.7"}
+{"Property Name":"JW Marriott Savannah Plant Riverside District","City":"Savannah","Zip Code":"31401","Google Rating":"4.6"}
+{"Property Name":"The Ritz-Carlton Amelia Island","City":"Jacksonville","Zip Code":"32034","Google Rating":"4.6"}
+{"Property Name":"JW Marriott Orlando Bonnet Creek Resort & Spa","City":"Orlando","Zip Code":"32821","Google Rating":"4.6"}
+{"Property Name":"The Ritz-Carlton Residences Orlando Grande Lakes","City":"Orlando","Zip Code":"32837","Google Rating":"4.8"}
+{"Property Name":"The Ritz-Carlton Orlando Grande Lakes","City":"Orlando","Zip Code":"32837","Google Rating":"4.7"}
+{"Property Name":"JW Marriott Orlando Grande Lakes","City":"Orlando","Zip Code":"32837","Google Rating":"4.5"}
+{"Property Name":"JW Marriott Miami","City":"Miami","Zip Code":"33131","Google Rating":"4.5"}
+{"Property Name":"JW Marriott Marquis Miami","City":"Miami","Zip Code":"33131","Google Rating":"4.5"}
+{"Property Name":"The Ritz-Carlton Miami - Coconut Grove","City":"Miami","Zip Code":"33133","Google Rating":"4.7"}
+{"Property Name":"W South Beach","City":"Miami - South Beach","Zip Code":"33139","Google Rating":"4.5"}
+{"Property Name":"W Miami","City":"Miami","Zip Code":"33139","Google Rating":"4.5"}
+{"Property Name":"The Ritz-Carlton","City":"South Beach","Zip Code":"33139","Google Rating":"4.5"}
+{"Property Name":"The Miami Beach EDITION","City":"Miami","Zip Code":"33140","Google Rating":"4.6"}
+{"Property Name":"The Ritz-Carlton Miami - Key Biscayne","City":"Miami","Zip Code":"33149","Google Rating":"4.7"}
+{"Property Name":"The St. Regis","City":"Miami -Bal Harbour Resort","Zip Code":"33154","Google Rating":"4.6"}
+{"Property Name":"The Ritz-Carlton Miami - Bal Harbour","City":"Miami","Zip Code":"33154","Google Rating":"4.7"}
+{"Property Name":"JW Marriott Miami Turnberry Resort & Spa","City":"Miami - Aventura","Zip Code":"33180","Google Rating":"4.6"}
+{"Property Name":"W Fort Lauderdale","City":"Miami - Fort Lauderdale","Zip Code":"33304","Google Rating":"4.5"}
+{"Property Name":"The Ritz-Carlton","City":"Miami - Fort Lauderdale","Zip Code":"33304","Google Rating":"4.5"}
+{"Property Name":"The Tampa EDITION","City":"Tampa","Zip Code":"33602","Google Rating":"4.6"}
+{"Property Name":"JW Marriott Tampa Water Street","City":"Tampa","Zip Code":"33602","Google Rating":"4.5"}
+{"Property Name":"JW Marriott Clearwater Beach Resort & Spa","City":"Clearwater Beach","Zip Code":"33767","Google Rating":"4.5"}
+{"Property Name":"The Ritz-Carlton Naples Vanderbilt Beach","City":"Naples","Zip Code":"34103","Google Rating":"4.6"}
+{"Property Name":"The Ritz-Carlton Naples - Tiburón","City":"Naples","Zip Code":"34108","Google Rating":"4.8"}
+{"Property Name":"JW Marriott Marco Island Beach Resort","City":"Marco Island","Zip Code":"34145","Google Rating":"4.6"}
+{"Property Name":"The Ritz-Carlton","City":"Sarasota","Zip Code":"34236","Google Rating":"4.7"}
+{"Property Name":"W Nashville","City":"Nashville","Zip Code":"37203","Google Rating":"4.4"}
+{"Property Name":"The Joseph a Luxury Collection Resort","City":"Nashville","Zip Code":"37203","Google Rating":"4.7"}
+{"Property Name":"JW Marriott Nashville","City":"Nashville","Zip Code":"37203","Google Rating":"4.6"}
+{"Property Name":"The Ritz-Carlton Cleveland","City":"Cleveland","Zip Code":"44114","Google Rating":"4.6"}
+{"Property Name":"JW Marriott Indianapolis","City":"Indianapolis","Zip Code":"46204","Google Rating":"4.6"}
+{"Property Name":"JW Marriott Grand Rapids","City":"Grand Rapids","Zip Code":"49503","Google Rating":"4.6"}
+{"Property Name":"W Minneapolis - The Foshay","City":"Minneapolis - The Foshay","Zip Code":"55403","Google Rating":"4.5"}
+{"Property Name":"Hotel Ivy a Luxury Collection Hotel","City":"Minneapolis","Zip Code":"55403","Google Rating":"4.7"}
+{"Property Name":"JW Marriott Minneapolis Mall of America","City":"Bloomington","Zip Code":"55425","Google Rating":"4.5"}
+{"Property Name":"W Chicago - City Center","City":"Chicago - City Center","Zip Code":"60601","Google Rating":"4.6"}
+{"Property Name":"The Ritz-Carlton Chicago","City":"Chicago","Zip Code":"60601","Google Rating":"4.7"}
+{"Property Name":"W Chicago - Lakeshore","City":"Chicago - Lakeshore","Zip Code":"60611","Google Rating":"4.6"}
+{"Property Name":"The St. Regis","City":"Chicago","Zip Code":"60611","Google Rating":"4.7"}
+{"Property Name":"The Gwen a Luxury Collection Resort","City":"Chicago","Zip Code":"60611","Google Rating":"4.6"}
+{"Property Name":"JW Marriott Chicago","City":"Chicago - Magnificent Mile","Zip Code":"60611","Google Rating":"4.6"}
+{"Property Name":"The Ritz-Carlton","City":"St. Louis","Zip Code":"63105","Google Rating":"4.7"}
+{"Property Name":"W New Orleans - French Quarter","City":"New Orleans - French Quarter","Zip Code":"70130","Google Rating":"4.6"}
+{"Property Name":"The Ritz-Carlton","City":"New Orleans","Zip Code":"70130","Google Rating":"4.7"}
+{"Property Name":"JW Marriott New Orleans","City":"New Orleans","Zip Code":"70130","Google Rating":"4.5"}
+{"Property Name":"The Las Colinas Resort","City":"Dallas","Zip Code":"75039","Google Rating":"4.5"}
+{"Property Name":"The Ritz-Carlton Dallas","City":"Dallas","Zip Code":"75201","Google Rating":"4.6"}
+{"Property Name":"JW Marriott Dallas Arts District","City":"Dallas","Zip Code":"75201","Google Rating":"4.6"}
+{"Property Name":"W Dallas - Victory","City":"Dallas - Victory","Zip Code":"75219","Google Rating":"4.5"}
+{"Property Name":"The St. Regis","City":"Houston","Zip Code":"77002","Google Rating":"4.6"}
+{"Property Name":"JW Marriott Houston Downtown","City":"Houston","Zip Code":"77002","Google Rating":"4.6"}
+{"Property Name":"JW Marriott Houston by The Galleria","City":"Houston","Zip Code":"77056","Google Rating":"4.6"}
+{"Property Name":"The St. Anthony a Luxury Collection Hotel","City":"San Antonio","Zip Code":"78205","Google Rating":"4.6"}
+{"Property Name":"JW Marriott San Antonio Hill Country Resort & Spa","City":"San Antonio","Zip Code":"78256","Google Rating":"4.6"}
+{"Property Name":"W Austin","City":"Austin","Zip Code":"78701","Google Rating":"4.6"}
+{"Property Name":"JW Marriott Austin","City":"Austin","Zip Code":"78701","Google Rating":"4.6"}
+{"Property Name":"The Ritz-Carlton Denver","City":"Denver","Zip Code":"80202","Google Rating":"4.6"}
+{"Property Name":"Hotel Clio a Luxury Collection Hotel","City":"Denver - Cherry Creek","Zip Code":"80206","Google Rating":"4.4"}
+{"Property Name":"W Aspen","City":"Aspen","Zip Code":"81611","Google Rating":"4.6"}
+{"Property Name":"The St. Regis","City":"Aspen Resort","Zip Code":"81611","Google Rating":"4.6"}
+{"Property Name":"The Sky Residences at W Aspen","City":"Aspen","Zip Code":"81611","Google Rating":"4.4"}
+{"Property Name":"The St. Regis Residence Club","City":"Aspen","Zip Code":"81611","Google Rating":"4.8"}
+{"Property Name":"The Ritz-Carlton Bachelor Gulch","City":"Edwards","Zip Code":"81632","Google Rating":"4.7"}
+{"Property Name":"The Ritz Carlton Club Vail","City":"Vail","Zip Code":"81657","Google Rating":"4.7"}
+{"Property Name":"The Hythe a Luxury Collection Resort","City":"Vail","Zip Code":"81657","Google Rating":"4.5"}
+{"Property Name":"The St. Regis","City":"Deer Valley","Zip Code":"84060","Google Rating":"4.7"}
+{"Property Name":"JW Marriott Phoenix Desert Ridge Resort & Spa","City":"Phoenix","Zip Code":"85054","Google Rating":"4.6"}
+{"Property Name":"W Scottsdale","City":"Scottsdale","Zip Code":"85251","Google Rating":"4.7"}
+{"Property Name":"The Phoenician a Luxury Collection Resort Scottsdale","City":"Phoenix","Zip Code":"85251","Google Rating":"4.6"}
+{"Property Name":"The Canyon Suites at The Phoenician a Luxury Collection Resort","City":"Scottsdale","Zip Code":"85251","Google Rating":"4.8"}
+{"Property Name":"Phoenician Residences","City":"Scottsdale","Zip Code":"85251","Google Rating":"4.6"}
+{"Property Name":"JW Marriott Scottsdale Camelback Inn Resort & Spa","City":"Scottsdale","Zip Code":"85251","Google Rating":"4.7"}
+{"Property Name":"The Ritz-Carlton Dove Mountain","City":"Tucson","Zip Code":"85658","Google Rating":"4.8"}
+{"Property Name":"JW Marriott Tucson Starr Pass Resort & Spa","City":"Tucson","Zip Code":"85745","Google Rating":"4.6"}
+{"Property Name":"JW Marriott Las Vegas Resort & Spa","City":"Las Vegas","Zip Code":"89145","Google Rating":"4.4"}
+{"Property Name":"\"The Cosmopolitan o Las Vegas, Autograph Collection\"","City":"Las Vegas","Zip Code":"89109","Google Rating":"4.6"}
+{"Property Name":"JW Marriott Los Angeles L.A. LIVE","City":"Los Angeles","Zip Code":"90015","Google Rating":"4.3"}
+{"Property Name":"W Hollywood","City":"Los Angeles - Hollywood","Zip Code":"90028","Google Rating":"4.2"}
+{"Property Name":"W Los Angeles - West Beverly Hills","City":"Los Angeles - West Beverly Hills","Zip Code":"90048","Google Rating":"4.2"}
+{"Property Name":"SLS Hotel","City":"Los Angeles","Zip Code":"90048","Google Rating":"4.3"}
+{"Property Name":"The Ritz-Carlton","City":"Los Angeles","Zip Code":"90067","Google Rating":"4.6"}
+{"Property Name":"The West Hollywood EDITION","City":"Los Angeles - West Hollywood","Zip Code":"90069","Google Rating":"4.5"}
+{"Property Name":"The Ritz-Carlton","City":"Marina del Rey","Zip Code":"90292","Google Rating":"4.5"}
+{"Property Name":"THE US GRANT a Luxury Collection Hotel","City":"San Diego","Zip Code":"92101","Google Rating":"4.6"}
+{"Property Name":"JW Marriott Desert Springs Resort & Spa","City":"Palm Desert","Zip Code":"92260","Google Rating":"4.6"}
+{"Property Name":"The Ritz-Carlton","City":"Rancho Mirage","Zip Code":"92270","Google Rating":"4.6"}
+{"Property Name":"The Ritz-Carlton","City":"Laguna Niguel","Zip Code":"92677","Google Rating":"4.6"}
+{"Property Name":"JW Marriott Anaheim Resort","City":"Anaheim","Zip Code":"92802","Google Rating":"4.5"}
+{"Property Name":"The Ritz-Carlton Bacara Santa Barbara","City":"Santa Barbara","Zip Code":"93117","Google Rating":"4.4"}
+{"Property Name":"The Ritz-Carlton","City":"Half Moon Bay","Zip Code":"94019","Google Rating":"4.6"}
+{"Property Name":"JW Marriott San Francisco Union Square","City":"San Francisco","Zip Code":"94102","Google Rating":"4.3"}
+{"Property Name":"W San Francisco","City":"San Francisco","Zip Code":"94103","Google Rating":"4.3"}
+{"Property Name":"The Ritz-Carlton","City":"San Francisco","Zip Code":"94108","Google Rating":"4.6"}
+{"Property Name":"The RItz Carlton Club San Francisco","City":"San Francisco","Zip Code":"94108","Google Rating":"4.8"}
+{"Property Name":"Palace Hotel","City":"San Francisco","Zip Code":"94108","Google Rating":"4.5"}
+{"Property Name":"The St. Regis","City":"San Francisco","Zip Code":"94111","Google Rating":"4.6"}
+{"Property Name":"The Ritz-Carlton","City":"Lake Tahoe","Zip Code":"96150","Google Rating":"4.6"}
+{"Property Name":"The Ritz-Carlton Maui - Kapalua","City":"Lahaina","Zip Code":"96761","Google Rating":"4.8"}
+{"Property Name":"The Royal Hawaiian a Luxury Collection Hotel","City":"Waikiki - Oahu","Zip Code":"96815","Google Rating":"4.5"}
+{"Property Name":"The Ritz-Carlton Residences Waikiki Beach","City":"Honolulu","Zip Code":"96815","Google Rating":"4.7"}
+{"Property Name":"The Nines a Luxury Collection Hotel Portland","City":"Portland","Zip Code":"97204","Google Rating":"4.4"}
+{"Property Name":"The Ritz-Carlton Residences","City":"Portland","Zip Code":"97205","Google Rating":"3.3"}
+{"Property Name":"W Bellevue","City":"Bellevue","Zip Code":"98004","Google Rating":"4.3"}
+{"Property Name":"W Seattle","City":"Seattle","Zip Code":"98101","Google Rating":"4.4"}
+{"Property Name":"The St. Regis","City":"Bermuda Resort","Zip Code":"HM 02","Google Rating":"4.3"}
+{"Property Name":"The Residences at The St. Regis Bermuda","City":"Hamilton","Zip Code":"HM 05","Google Rating":"4.3"}
+]
