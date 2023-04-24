@@ -23,9 +23,9 @@ A table of the Google Ratings of Marriott's Luxury properties in every city in A
  The Ritz-Carlton                                               | Washington D.C.                  | 20037        | 4.6               
  The Ritz-Carlton                                               | Tysons Corner                    | 22102        | 4.5               
  The Ritz-Carlton                                               | Pentagon City                    | 22202        | 4.5               
- The Ritz-Carlton Charlotte                                     | Charlotte                        | 28202        | 4.7               
- JW Marriott Charlotte                                          | Charlotte                        | 28202        | 4.6               
- The Ballantyne a Luxury Collection Resort                      | Charlotte                        | 28277        | 4.7               
+ The Ritz-Carlton Charlotte                                     | Charlotte                        | 28202        | 4.6               
+ JW Marriott Charlotte                                          | Charlotte                        | 28202        | 4.5               
+ The Ballantyne a Luxury Collection Resort                      | Charlotte                        | 28277        | 4.6               
  The St. Regis                                                  | Atlanta                          | 30305        | 4.6               
  W Atlanta – Downtown                                           | Atlanta – Downtown               | 30308        | 4.5               
  The Whitley a Luxury Collection Hotel                          | Atlanta Buckhead                 | 30326        | 4.6               
